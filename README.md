@@ -47,5 +47,4 @@ python src/main.py
 
 ## Проверка в Excel
 
-
 Решение подтверждено с помощью надстройки «Поиск решения». Скриншот в report/excel_screenshot.png
